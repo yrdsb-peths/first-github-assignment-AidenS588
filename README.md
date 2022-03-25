@@ -6,9 +6,9 @@ Then answer in the space below each question:
 1. First name
 Aiden 
 2. Last name
-Salas
+
 3. Favourite animal
-Badger
+Not Badger
 
 Now click the green 'commit changes' button at the bottom.
 
